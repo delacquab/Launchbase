@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Membro 1",
+      "email": "membro1@teste.com",
+      "birth": 1548979200000,
+      "gender": "F",
+      "blood": "B-",
+      "weight": "50",
+      "height": "170"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "membro 2 ",
+      "email": "membro2@gmail.com",
+      "birth": 812851200000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "80",
+      "height": "200"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1547919307-1ecb10702e6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Teste 27",
+      "birth": 473385600000,
+      "gender": "F",
+      "services": "cross, musc",
+      "created_at": 1587152062659
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1543975200-8e313fb04fc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "name": "Teste 2v",
+      "birth": 473385600000,
+      "gender": "F",
+      "services": "cross, musc",
+      "created_at": 1587152062659
+    }
+  ]
+}
